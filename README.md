@@ -1,4 +1,4 @@
-# Outsized Workflow Automation Project
+# Workflow Automation Project
 
 ## 📋 Project Overview
 This project automates two key business processes using n8n workflow automation:
@@ -62,28 +62,7 @@ This project automates two key business processes using n8n workflow automation:
 - **Row 3:** Onboarding and setup
 - **Row 4:** Project management and tracking
 
----
 
-## 🛠️ Tools Used
-- **n8n** - Workflow automation platform
-- **Airtable** - Database for storing information
-- **Gmail** - Email communications
-- **Slack** - Team notifications
-- **Calendly** - Interview scheduling
-- **Stripe** - Payment processing
-- **AI Agents** - Smart decision making
-
-## ✅ Benefits
-- **Saves Time** - No more manual data entry
-- **Reduces Errors** - Automated processes are more reliable
-- **Better Experience** - Faster response times for clients and talent
-- **Scalable** - Can handle growing business needs
-- **Transparent** - Clear visibility into all processes
-
-## 📁 Project Files
-- `client_workflow.excalidraw` - Visual client process diagram
-- `talent_workflow.excalidraw` - Visual talent process diagram
-- `minimal.excalidraw` - Simplified overview diagram
 - `client_workflow.md` - Detailed client process documentation
 
 ---
