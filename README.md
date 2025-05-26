@@ -16,7 +16,7 @@ This project automates two key business processes using n8n workflow automation:
 ## 📊 Client Workflow
 
 ### Process Overview
-![Client Process Wireframing](client_process_wireframing.png)
+![Client Process Wireframing](Client Process-Wireframing.png)
 
 **What happens step by step:**
 1. **Client applies** through our website
