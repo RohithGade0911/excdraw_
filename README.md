@@ -16,7 +16,7 @@ This project automates two key business processes using n8n workflow automation:
 ## 📊 Client Workflow
 
 ### Process Overview
-![Client Process Wireframing](Client Process-Wireframing.png)
+![Client Process Wireframing](Client%20Process-Wireframing.png)
 
 **What happens step by step:**
 1. **Client applies** through our website
@@ -28,7 +28,7 @@ This project automates two key business processes using n8n workflow automation:
 7. **Client gets access** to the platform
 
 ### Technical Implementation
-![Client Node Wireframing](client_node_wireframing.png)
+![Client Node Wireframing](Client%20node-Wireframing.png)
 
 **How it works behind the scenes:**
 - 🟢 **Green boxes** = Starting points (like form submissions)
@@ -41,7 +41,7 @@ This project automates two key business processes using n8n workflow automation:
 ## 👥 Talent Workflow
 
 ### Process Overview
-![Talent Process Wireframing](talent_process_wireframing.png)
+![Talent Process Wireframing](Talent%20Process-Wireframing.png)
 
 **What happens step by step:**
 1. **Talent applies** for opportunities
@@ -52,7 +52,7 @@ This project automates two key business processes using n8n workflow automation:
 6. **Progress tracking** monitors ongoing work
 
 ### Technical Implementation
-![Talent Node Wireframing](talent_node_wireframing.png)
+![Talent Node Wireframing](Talent%20node-Wireframing.png)
 
 **How it works behind the scenes:**
 - **4 rows** of connected processes
